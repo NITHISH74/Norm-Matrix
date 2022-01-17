@@ -28,6 +28,8 @@ print('{:.2f}'.format(val))
 
 ```
 ## Input and Output:
+![image](https://user-images.githubusercontent.com/94164665/149737647-0261e731-07a6-4cc7-823f-be13f800a537.png)
+
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
